@@ -139,9 +139,14 @@ A version of Python, if found, will tell you about itself. I myself did the abov
 Python 3.7.3
 ```
 
+### python3 versus python
+
+It is very likely you will need to explicitly execute `python3` rather than `python`. Same for `pip` - likely must use `pip3`.
+
+
 ### Verify `pip` is installed
 
-Enter `pip --version` into the Terminal and hit enter. You should see a version string that refers to Python 3.7 (or later) such as this:
+Enter `pip3 --version` into the Terminal and hit enter. You should see a version string that refers to Python 3.7 (or later) such as this:
 
 ```text
 pip 19.0.3 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/site-packages/pip (python 3.7)
@@ -153,7 +158,7 @@ pip 19.0.3 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.f
 
 1. Paste `python -m pip install --upgrade pip setuptools wheel` and hit enter. Alert instructor if the last line printed does not include "Successfully".
 
-2. `pip install PyPl` and hit enter. Alert instructor if the last line doe snot include "Successfully"
+2. `pip3 install PyPl` and hit enter. Alert instructor if the last line doe snot include "Successfully"
 
 3. Use this [link](https://files.pythonhosted.org/packages/6b/d1/71d3e9cd5e57ff34bd506f815ac0deeaaa655825f41f6fbfbaf8a69886e2/scipy-1.4.0-cp37-cp37m-macosx_10_6_intel.whl). Save the file to your Downloads folder. Wait for the download to finish. **NOTE** Notice the 37 repeated in this file name? It corresponds to having installed Python 3.7.X. If this is not the case, the following will not work and you should alert the instructor. 
 
@@ -163,7 +168,7 @@ pip 19.0.3 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.f
 
 6. Back in the command prompt paste `pip install Downloa-0.16.2-cp37-cp37m-macosx_10_6_intel` and hit enter. Alert the instructor if the last line does not include "Successfully".
 
-7. Paste `pip install mutagen matplotlib` and hit enter. Alert the instructor if the last line does not include "Successfully".
+7. Paste `pip3 install mutagen matplotlib` and hit enter. Alert the instructor if the last line does not include "Successfully".
 
 ### Install Visual Studio Code
 
