@@ -99,10 +99,8 @@ As for how much to spend for a Mac, the top-end Mac desktop all tricked out is a
 
 Our textbook is found online. You must subscribe to it - it is not free (though it is far less than a traditional textbook):
 
-THIS MUST BE UPDATED DO NOT DO THIS YET
-
 1. Sign in or create an account at learn.zybooks.com
-2. Enter zyBook code: CARTHAGECSC1100KivolowitzWinter2020
+2. Enter zyBook code: CARTHAGECSC1100KivolowitzSpring2020
 3. Subscribe
 
 Ensure that you use your @carthage.edu email address.
