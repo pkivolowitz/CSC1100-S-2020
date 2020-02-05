@@ -21,8 +21,10 @@
 	</tr>
 	<tr>
 		<td>Meeting Pattern</td>
-		<td>MWF 1030 to 1135</td>
-		<td>Straz 251</td>
+		<td>MWF 1030 to 1135
+			<br>
+				Straz 251
+		</td>
 	</tr>
 	<tr>
 		<td>Text</td>
