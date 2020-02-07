@@ -131,7 +131,7 @@ To be safe, exit the current Terminal and enter the Terminal again.
 
 Enter:
 
-```python --version```
+```python3 --version```
 
 A version of Python, if found, will tell you about itself. I myself did the above on December 17, 2019 and got this:
 
@@ -156,17 +156,17 @@ pip 19.0.3 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.f
 
 ### Python modules first time setup
 
-1. Paste `python -m pip install --upgrade pip setuptools wheel` and hit enter. Alert instructor if the last line printed does not include "Successfully".
+1. Paste `python3 -m pip install --upgrade pip setuptools wheel` and hit enter. Alert instructor if the last line printed does not include "Successfully".
 
 2. `pip3 install PyPl` and hit enter. Alert instructor if the last line doe snot include "Successfully"
 
 3. Use this [link](https://files.pythonhosted.org/packages/6b/d1/71d3e9cd5e57ff34bd506f815ac0deeaaa655825f41f6fbfbaf8a69886e2/scipy-1.4.0-cp37-cp37m-macosx_10_6_intel.whl). Save the file to your Downloads folder. Wait for the download to finish. **NOTE** Notice the 37 repeated in this file name? It corresponds to having installed Python 3.7.X. If this is not the case, the following will not work and you should alert the instructor. 
 
-4. Back in the command prompt paste `pip install Downloads/scipy-1.4.0-cp37-cp37m-macosx_10_6_intel.whl` and hit enter. Alert the instructor if the last line does not include "Successfully".
+4. Back in the command prompt paste `pip3 install Downloads/scipy-1.4.0-cp37-cp37m-macosx_10_6_intel.whl` and hit enter. Alert the instructor if the last line does not include "Successfully".
 
 5. Use this [link](https://files.pythonhosted.org/packages/f7/c5/d2625858ffcc0b5a86557200224be9f1f22a71e5234563d218b6153fb635/scikit_image-0.16.2-cp37-cp37m-macosx_10_6_intel.whl) and  save the file to your Downloads folder. Wait for the download to finish. **NOTE** Notice the 37 repeated in this file name? It corresponds to having installed Python 3.7.X. If this is not the case, the following will not work and you should alert the instructor.
 
-6. Back in the command prompt paste `pip install Downloa-0.16.2-cp37-cp37m-macosx_10_6_intel` and hit enter. Alert the instructor if the last line does not include "Successfully".
+6. Back in the command prompt paste `pip3 install Downloa-0.16.2-cp37-cp37m-macosx_10_6_intel` and hit enter. Alert the instructor if the last line does not include "Successfully".
 
 7. Paste `pip3 install mutagen matplotlib` and hit enter. Alert the instructor if the last line does not include "Successfully".
 
