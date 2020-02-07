@@ -33,3 +33,11 @@ Link to the Python installation file is [here](https://www.python.org/ftp/python
 6. Use this [link](https://files.pythonhosted.org/packages/cb/5a/abd74bd5ce791e2ab0b6fd88b144c42dbc88b3b1d963147417d0e163684b/scikit_image-0.16.2-cp37-cp37m-win_amd64.whl) save the file to your Downloads folder. Wait for the download to finish. **NOTE** Notice the 37 repeated in this file name? It corresponds to having installed Python 3.7.X. If this is not the case, the following will not work and you should alert the instructor.
 7. Back in the command prompt type `pip install Downloads\scikit_image-0.16.2-cp37-cp37m-win_amd64.whl` and hit enter. Alert the instructor if the last line does not include "Successfully".
 8. Type `pip install mutagen matplotlib` and hit enter. Alert the instructor if the last line does not include "Successfully".
+
+### Install Visual Studio Code
+
+1. In your web browser search for Visual Studio Code Download
+2. Click on the first link making sure it leads to a Microsoft website.
+3. Click on the download button for Windows (64 bit)
+4. Install
+
