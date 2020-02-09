@@ -14,3 +14,4 @@ On this day:
 * I believe all students are ready to begin learning to code as all software seems to be installed.
 * you were advised of the existance of reading assignment 1 - to read Chapter 1 of zybooks. The work is due just before midnight on **Monday** which means at class on Monday, you can ask questions to help you maximize your score.
 
+## February 10
