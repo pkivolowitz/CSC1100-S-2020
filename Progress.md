@@ -38,3 +38,11 @@ Today we used Python interactively. We learned:
 * what arguments are
 
 We also went over some problems from chapter 1.
+
+## February 12
+
+We reviewed and took a quiz.
+
+We will:
+* write a program launching it from VS Code
+* study the if statement
