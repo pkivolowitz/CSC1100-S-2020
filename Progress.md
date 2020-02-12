@@ -41,8 +41,16 @@ We also went over some problems from chapter 1.
 
 ## February 12
 
-We reviewed and took a quiz.
+We reviewed but deferred the quiz to Friday.
 
-We will:
-* write a program launching it from VS Code
-* study the if statement
+We:
+* learned a bunch about VS Code
+* wrote a program and launched it from VS Code
+* studied the if statement
+  * if
+  * if / else
+  * if / elif / else
+* learned about the importance of comments
+* learned about the importance of indentation
+* saw a video about plate spinning and related it to commenting
+
