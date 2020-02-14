@@ -31,7 +31,7 @@ age1 = int(input('Enter the age of person 1: '))
 Then, write a series of `if` statements that will test for the following conditions:
 
 * If both ages are 16 or over, print `Both can drive.`
-* If either age is 21 or greater, print `At least one can rent a car`.
+* If either age is 25 or greater, print `At least one can rent a car`.
 * If neither is 35 or older, print `Neither can be President`.
 * If **only one** of the two ages is 25 or more print `Exactly one can be a senator`.
 
