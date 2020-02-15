@@ -54,3 +54,16 @@ We:
 * learned about the importance of indentation
 * saw a video about plate spinning and related it to commenting
 
+## February 14
+
+Today we dined on filet mignon prepared in the French style, lobster tails and drank Chiante Classico from the vinyard of Giovanni da Varrazzano. No. Wait. That was my wife and me.
+
+What we did in class is:
+
+* we took the Chapter 1 quiz
+* we reviewed `if` statements and its cousins
+* we worked on the `ages` program to practice if statements
+
+65 minute classes seem to short when there's so much fun to be had!
+
+
