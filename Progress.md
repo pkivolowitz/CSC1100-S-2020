@@ -66,4 +66,15 @@ What we did in class is:
 
 65 minute classes seem to short when there's so much fun to be had!
 
+## February 17
+
+On this day we:
+
+* reviewed the `if` statement
+* learned the `while` loop
+* wrote a number guessing game
+* wrote a coin flipping program and discovered about half of flips are heads
+* learned one form of `import` to load the `random` module
+* practiced using `random.randint()` and `random.random()`
+* talked about the importance of random numbers in science on computers
 
