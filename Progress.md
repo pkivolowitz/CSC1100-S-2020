@@ -78,3 +78,33 @@ On this day we:
 * practiced using `random.randint()` and `random.random()`
 * talked about the importance of random numbers in science on computers
 
+## February 24
+
+Today we learned and practiced more with lists.
+
+* `pop()`
+* `sort()`
+* `insert()`
+* `extend()`
+* `remove()`
+* `count()`
+* `clear()`
+* `reverse()`
+* `index()`
+* `copy()`
+* that lists can contain data that allows you to find data in other lists
+
+We worked on code to turn a list into a shuffled deck of named cards.
+
+## February 26
+
+Today we started learning about files.
+
+* `open()`
+* `read()`
+* `readline()`
+* `readlines()`
+* `seek()`
+* `close()`
+
+We also learned what a `csv` file looks like.
